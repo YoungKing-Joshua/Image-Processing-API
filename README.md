@@ -26,9 +26,3 @@ http://localhost:3000
 http://localhost:3000/api/imageprocess?filename=icelandwaterfall
 
 Would display the icelandwaterfall image in it original size.
-
-
-### Reference
-- https://github.com/0xAbdoAli/image-processing-api
-
-- https://github.com/otacke/udacity-image-processing-api
